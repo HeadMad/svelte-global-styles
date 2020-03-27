@@ -1,5 +1,4 @@
 # svelte-global-styles
-
 Plugin for make styles in svelte-components global again
 
 ## Instalation
