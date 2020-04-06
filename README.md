@@ -3,7 +3,11 @@ Plugin for make styles in svelte-components global again
 
 ## Instalation
 ```
-npm install --save-dev HeadMad/svelte-global-styles#1.0
+npm install --save-dev svelte-global-styles
+```
+or
+```
+npm i -D HeadMad/svelte-global-styles
 ```
 
 ## Usage
