@@ -35,7 +35,7 @@ export default {
 If you whant use scoped styles in som files,
 <br>just add attribute `scoped` to tag `<style>`
 
-```css
+```html
 <style scoped>
   /* Scoped styles */
 </style>
