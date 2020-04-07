@@ -1,6 +1,6 @@
 {
   "name": "svelte-global-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make global selectors in styles for svelte-components",
   "main": "index.js",
   "scripts": {
