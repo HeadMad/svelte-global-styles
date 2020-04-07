@@ -6,24 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HeadMad/svelte-global-styles.git"
-  },
   "keywords": [
     "svelte",
     "global",
     "styles",
     "postcss"
   ],
-  "author": "HeadMad",
+  "author": "HeadMad <kov.ps@yandex.ru>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeadMad/svelte-global-styles.git"
+  },
   "bugs": {
     "url": "https://github.com/HeadMad/svelte-global-styles/issues"
   },
   "homepage": "https://github.com/HeadMad/svelte-global-styles#readme",
   "dependencies": {
     "postcss": "^7.0.26",
-    "postcss-svelte-global-styles": "github:headmad/postcss-svelte-global-styles#1.0"
+    "postcss-svelte-global-styles": "^1.0.3"
   }
 }
