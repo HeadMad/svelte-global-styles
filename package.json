@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/HeadMad/svelte-global-styles#readme",
   "dependencies": {
-    "postcss": "^7.0.26",
+    "postcss": "^8.2.10",
     "postcss-svelte-global-styles": "^1.0.3"
   }
 }
